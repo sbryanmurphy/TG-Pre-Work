@@ -10,4 +10,4 @@ let favoritePhrase = 'Love That!';
 
 favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!");
 
-// learned about ternary operators and how they simplify the syntax of an if..else statement
+// I learned about ternary operators and how they simplify the syntax of an if..else statement
