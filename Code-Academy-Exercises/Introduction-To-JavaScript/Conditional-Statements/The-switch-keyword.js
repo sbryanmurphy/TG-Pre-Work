@@ -14,4 +14,4 @@ switch (athleteFinalPosition){
     break;
 }
 
-// learned about the switch statement which is an easier way to write a whole bunch of else if statements
+// I learned about the switch statement which is an easier way to write a whole bunch of else if statements
